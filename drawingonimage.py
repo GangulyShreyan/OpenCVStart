@@ -19,3 +19,10 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 cv2.imwrite('media/output/imagewithdrawing.png', img)
+
+
+'''
+
+Same approach can be applied on video.
+
+'''
